@@ -53,6 +53,7 @@ h3
 {
     color: #11999f;
     font-family: 'Montserrat',sans-serif;
+    font-size: 1.5rem;
     
 }
 hr{
@@ -126,6 +127,7 @@ hr{
 .contact-message
 {
     margin:40px auto 60px;
+    width:30%;
 }
 .copyright-description
 {

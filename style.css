@@ -1,0 +1,172 @@
+a{
+    color:#11999e;
+    font-family: 'Montserrat',sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #eaf6f6;
+}
+.top-container
+{
+    background-color: #e4f9f5;
+    /* border: solid 10px black; */
+    /* height: 200px;
+    width: 200px; */
+    /* padding: 10px; */
+    position: relative;
+    padding-top: 100px;
+}
+
+body
+{
+    margin: 0;
+    color:#40514e;
+    font-family: 'Merriweather', serif;
+    /* work on text and img  */
+    text-align: center;
+}
+p
+{
+    line-height: 2;
+}
+h1{
+    font-size: 5.625rem;
+    color: #66bfbf;
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    /* line-height: 2; */
+    /* margin: 0 auto 0 auto; */
+    /* width: 10px; */
+    /* line-height: 2; */
+}
+h2
+{
+    color: #66bfbf;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;     
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3
+{
+    color: #11999f;
+    font-family: 'Montserrat',sans-serif;
+    
+}
+hr{
+    border-color: grey;
+    /* size: 20; */
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    margin: 100px auto;
+    width: 5%;
+}
+.middle-container
+{
+    margin:100px 0;
+    
+}
+.bottom-container
+{
+    padding: 50px 0 20px;
+    background-color: #66bfbf;
+    
+}
+.bottom-cloud
+{
+    position: absolute;
+    /* left: ; */
+    left: 250px;
+    bottom: 300px;
+}
+.top-cloud
+{
+    position:absolute;
+    right: 300px;
+    top: 40px;
+    /* display: block; */
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    /* text-align: left; */
+    text-align: left;
+    /* line-height: 2; */
+    
+}
+.code-img
+{
+    width: 33.3%;
+    float: left;
+    /* padding: 10px; */
+    margin-right:30px ;
+}
+.beatbox-img
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+/* .profile-img
+{
+    padding-top: 30px;
+
+} */
+.intro
+{
+    /* padding-bottom: 20px; */
+    width: 30%;
+    margin:auto;
+}
+.contact-message
+{
+    margin:40px auto 60px;
+}
+.copyright-description
+{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat',sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+/* .code-skill-description
+{
+    clear: left;
+}
+.Beatbox-description
+{
+    clear: right;
+} */
+/* a{
+color: #11999f;} */
